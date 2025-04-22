@@ -47,3 +47,8 @@ variable "application_gateway_name" {
   type        = string
   description = "Name of the Application Gateway"
 }
+
+variable "subscription_id" {
+  type        = string
+  description = "Subscription ID"
+}

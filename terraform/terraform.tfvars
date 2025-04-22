@@ -15,3 +15,5 @@ container_image       = "stsurya/minimal:v1"
 container_port        = 5000
 
 application_gateway_name = "appgw-demo"
+
+subscription_id = "XXXXXXXX"
