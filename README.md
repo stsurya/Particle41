@@ -1,9 +1,10 @@
 # Particle41
 
-````markdown
+```markdown
 # 🚀 Dockerized Application
 
 This is a simple Dockerized application. You can clone this repository, build the Docker image, and run the container exposing port **5000**.
+```
 
 ## 🧾 Requirements
 
@@ -15,7 +16,6 @@ This is a simple Dockerized application. You can clone this repository, build th
 git clone https://github.com/stsurya/Particle41.git
 cd Particle41/app
 ```
-````
 
 ## 🛠️ Build the Docker Image
 
