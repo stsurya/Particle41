@@ -41,17 +41,11 @@ Now your app should be running and accessible at [http://localhost:5000](http://
 
 ---
 
-Awesome! Here’s a `README.md` template tailored for a Terraform script that provisions:
-
-- Azure Container Apps (ACA)
-- Azure Application Gateway
-- Virtual Networks (VNets)
-
 This README assumes your repo contains the necessary `.tf` files, `variables.tf`, and optionally a `terraform.tfvars`.
 
 ---
 
-````markdown
+```markdown
 # 🌐 Azure Infrastructure with Terraform
 
 This Terraform project provisions the following Azure resources:
@@ -59,6 +53,7 @@ This Terraform project provisions the following Azure resources:
 - 🧱 Virtual Networks (VNet & Subnets)
 - 🚀 Azure Container Apps (ACA)
 - 🌐 Azure Application Gateway
+```
 
 ---
 
@@ -78,7 +73,6 @@ This Terraform project provisions the following Azure resources:
 git clone https://github.com/stsurya/Particle41.git
 cd Particle41/terraform
 ```
-````
 
 ### 2️⃣ Initialize Terraform
 
